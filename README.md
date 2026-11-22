@@ -69,4 +69,4 @@ The program can then be run using:
 
 Author
 
-Abdul Moiz 26k1012
+Syed Muhammad Saeed 26K-0586
